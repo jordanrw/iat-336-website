@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/iat-336-website/static/css/main.6ee59c72.css",
+    "main.js": "/iat-336-website/static/js/main.79c331ec.js",
+    "static/js/787.54269f63.chunk.js": "/iat-336-website/static/js/787.54269f63.chunk.js",
+    "static/media/logo.jpg": "/iat-336-website/static/media/logo.d8f3bacae9c907f43f64.jpg",
+    "index.html": "/iat-336-website/index.html",
+    "main.6ee59c72.css.map": "/iat-336-website/static/css/main.6ee59c72.css.map",
+    "main.79c331ec.js.map": "/iat-336-website/static/js/main.79c331ec.js.map",
+    "787.54269f63.chunk.js.map": "/iat-336-website/static/js/787.54269f63.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ee59c72.css",
+    "static/js/main.79c331ec.js"
+  ]
+}
